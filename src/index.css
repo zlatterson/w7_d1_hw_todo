@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.high-prio{
+  background-color: rgb(255, 132, 132);
+}
+
+.low-prio{
+  background-color: rgb(128, 255, 128);
+}
